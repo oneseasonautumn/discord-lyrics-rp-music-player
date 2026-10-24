@@ -1,0 +1,7 @@
+PyQt6
+mutagen
+pypresence
+requests
+pyinstaller
+pynput
+Pillow
